@@ -3,14 +3,24 @@ body,h1{
 }
 h1{
 	font-family: "sans-serif";
-	font-size: 30px;
+	font-size: 20px;
 	font-style:italic;
 	text-align: center;
 	line-height: 100px;
 }
-div{
+#main{
+	width:520px;
 	height:100px;
 	background: #E4DE26;
 	border:red solid 1px;
 	transition: 5s;
+}
+#wechat{
+	width:300px;
+	height:300px;
+	position: relative;
+	left:111px;
+	background: transparent url("../img/微信二维码.JPG") no-repeat;
+	background-size: 100% 100%;
+	/*display: inline;*/
 }
