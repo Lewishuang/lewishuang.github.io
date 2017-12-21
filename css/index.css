@@ -8,19 +8,19 @@ h1{
 	text-align: center;
 	line-height: 100px;
 }
-#main{
-	width:520px;
-	height:100px;
-	background: #E4DE26;
-	border:red solid 1px;
-	transition: 5s;
-}
 #wechat{
 	width:300px;
 	height:300px;
 	position: relative;
 	left:111px;
 	background: transparent url("../img/微信二维码.JPG") no-repeat;
-	background-size: 100% 100%
+	background-size: 100% 100%;
 	/*display: inline;*/
+}
+#main{
+	width:520px;
+	height:100px;
+	background: #E4DE26;
+	border:red solid 1px;
+	transition: 5s;
 }
