@@ -21,6 +21,6 @@ h1{
 	position: relative;
 	left:111px;
 	background: transparent url("../img/微信二维码.JPG") no-repeat;
-	background-size: 100% 100%;
+	background-size: 100% 100%
 	/*display: inline;*/
 }
